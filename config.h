@@ -14,6 +14,7 @@
 void configPIC(); // se llama la funcion donde se establecieron la configuracion de los pines
 void putch(unsigned char data);
 void init_uart(void);
+//Mi nombre es Alan Paredes y soy el rey de este proyecto
 
 #endif	/* CONFIG_H */
 
